@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: InventoryPublisher
+Bundle-SymbolicName: InventoryPublisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: inventorypublisher.InventoryPublisherActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: InventoryPublisher
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: inventorypublisher
+
